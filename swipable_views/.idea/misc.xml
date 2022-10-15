@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/carlo/Desktop/Android-Fundamentals/swipable_views/app/src/main/res/layout/activity_main.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/carlo/Desktop/Android-Fundamentals/swipable_views/app/src/main/res/layout/item_view_pager.xml" value="0.34479166666666666" />
         <entry key="..\:/Users/carlo/Documents/swipable_views/app/src/main/res/layout/activity_main.xml" value="0.24139492753623187" />
         <entry key="..\:/Users/carlo/Documents/swipable_views/app/src/main/res/layout/item_view_pager.xml" value="0.1631578947368421" />
       </map>
